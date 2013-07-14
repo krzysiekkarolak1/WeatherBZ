@@ -61,7 +61,7 @@ Doceń autora pozytywnym komentarzem lub przekazując mu darowiznę!"</string>
     <string name="donations_google_android_market_text">Kwota do przekazania?</string>
     <string name="donations_paypal">PayPal</string>
     <string name="donations_paypal_description">Wybór kwoty do przekazania nastąpi po kliknięciu przycisku \"Przekaż\"!</string>
-    <string name="donations_paypal_item_name">Dodacje w aplikacji</string>
+    <string name="donations_paypal_item_name">Dotacje w aplikacji</string>
     <string name="donations_thanks_dialog">"Dziekuję za darowiznę!
 Naprawdę to doceniam!"</string>
     <string name="donations_thanks_dialog_title">Dzięki!</string>
